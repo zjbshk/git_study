@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-# this is dev02
-=======
 # this is dev01
->>>>>>> Stashed changes
