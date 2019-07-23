@@ -3,5 +3,4 @@
 <<<<<<< HEAD
 # this is commit
 =======
-# ok
->>>>>>> b6efc336d2af2d7e15fa9d40d33c8852a581f26f
+
