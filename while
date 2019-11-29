@@ -1,0 +1,5 @@
+import os
+import time
+while True:
+	os.system("./auto_git")
+	time.sleep(5)
