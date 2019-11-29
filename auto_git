@@ -1,0 +1,6 @@
+d=`date +"%Y/%m/%d %H:%M:%S"`
+echo $d >> time.txt
+git add --all
+git commit -m $d
+git push
+
