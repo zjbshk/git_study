@@ -902,3 +902,6 @@ To https://github.com/zjbshk/git_study.git
 [master 3f3baa4] 2020/06/12 18:42:07
  2 files changed, 5 insertions(+)
 fatal: Authentication failed for 'https://github.com/zjbshk/git_study.git/'
+[master 3c96682] 2020/06/12 19:44:09
+ 2 files changed, 4 insertions(+)
+fatal: could not read Username for 'https://github.com': No such device or address
