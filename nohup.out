@@ -1697,3 +1697,6 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 [master bd6469a] 2020/06/23 20:08:41
  2 files changed, 4 insertions(+)
 fatal: could not read Username for 'https://github.com': No such device or address
+[master 584c816] 2020/06/23 21:08:50
+ 2 files changed, 4 insertions(+)
+fatal: could not read Username for 'https://github.com': No such device or address
